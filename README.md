@@ -14,4 +14,6 @@
 - Alejandra Barria
 - Kika Cortes
 - Adriana Oviedo
+
+## Visualización BD:
 ![](https://github.com/AdrianaOL/aerolinea/blob/main/img.PNG)
